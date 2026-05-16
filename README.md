@@ -1,5 +1,4 @@
-# BAN644-BigMart-Sales-Prediction
-# BigMart Sales Prediction Using Machine Learning
+# BAN644-BigMart-Sales-Prediction Using Machine Learning
 
 ## Project Overview
 
