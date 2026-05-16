@@ -105,6 +105,7 @@ The following regression metrics were used:
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Squared Error)
 - R² Score
+- MAPE
 
 ---
 
@@ -139,29 +140,17 @@ Random Forest Regressor achieved the best performance among all models because i
 3. Upload Train.csv dataset
 4. Run all cells sequentially
 
----
-
-## Project Structure
-
-BAN644-BigMart-Sales-Prediction/
-│
-├── BigMart_Sales_Prediction.ipynb
-├── README.md
-├── dataset/
-│   └── Train.csv
-└── report/
-    └── Final_Report.pdf
 
 ---
 
 ## Author
 
-Name: Your Name  
-Student ID: Your ID  
-Course: BAN644/BAN744
+Name: A.H.M. Mahin
+Student ID: 1000056743  
+Course: BAN644
 
 ---
 
 ## AI Usage Disclosure
 
-AI tools such as ChatGPT were used to assist with understanding machine learning concepts, improving coding structure, and debugging Python code. All analysis, interpretation, and conclusions were completed independently by the student.
+AI tools such as ChatGPT and Gemini were used to assist with understanding machine learning concepts, improving coding structure, and debugging Python code. All analysis, interpretation, and conclusions were completed independently by the student.
