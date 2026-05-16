@@ -10,7 +10,7 @@ This is a regression-based machine learning project where the target variable is
 
 Item_Outlet_Sales
 
----
+
 
 ## Business Problem
 
@@ -24,7 +24,7 @@ Retail businesses need accurate sales forecasting to:
 
 This project aims to forecast sales using historical BigMart retail data.
 
----
+
 
 ## Dataset Information
 
@@ -40,7 +40,7 @@ Files Used:
 Target Variable:
 - Item_Outlet_Sales
 
----
+
 
 ## Technologies Used
 
@@ -52,7 +52,7 @@ Target Variable:
 - Seaborn
 - Scikit-learn
 
----
+
 
 ## Machine Learning Algorithms Used
 
@@ -60,7 +60,7 @@ Target Variable:
 2. Decision Tree Regressor
 3. Random Forest Regressor
 
----
+
 
 ## Project Workflow
 
@@ -74,7 +74,7 @@ Target Variable:
 8. Hyperparameter Tuning
 9. Business Insights & Recommendations
 
----
+
 
 ## Data Preprocessing Steps
 
@@ -84,7 +84,6 @@ Target Variable:
 - Encoded categorical variables
 - Created new features such as Outlet_Age
 
----
 
 ## Exploratory Data Analysis (EDA)
 
@@ -96,7 +95,7 @@ The following analyses were performed:
 - Correlation heatmap
 - Fat content analysis
 
----
+
 
 ## Model Evaluation Metrics
 
@@ -107,13 +106,12 @@ The following regression metrics were used:
 - R² Score
 - MAPE
 
----
 
 ## Best Performing Model
 
 Random Forest Regressor achieved the best performance among all models because it handled nonlinear relationships effectively and produced higher prediction accuracy.
 
----
+
 
 ## Business Insights
 
@@ -122,7 +120,6 @@ Random Forest Regressor achieved the best performance among all models because i
 - Outlet age affected revenue generation.
 - Certain product categories consistently achieved stronger sales.
 
----
 
 ## Recommendations
 
@@ -131,7 +128,7 @@ Random Forest Regressor achieved the best performance among all models because i
 - Focus marketing on high-performing outlet types.
 - Use predictive analytics for better inventory planning.
 
----
+
 
 ## How to Run the Project
 
@@ -141,7 +138,7 @@ Random Forest Regressor achieved the best performance among all models because i
 4. Run all cells sequentially
 
 
----
+
 
 ## Author
 
@@ -149,7 +146,7 @@ Name: A.H.M. Mahin
 Student ID: 1000056743  
 Course: BAN644
 
----
+
 
 ## AI Usage Disclosure
 
